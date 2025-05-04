@@ -1,0 +1,13 @@
+country,metric,salary
+US,total_jobs,89.00
+UK,total_jobs,77.00
+US,top_salary,245950.98
+UK,top_salary,211250.00
+US,min_salary,49839.24
+UK,min_salary,35674.18
+US,avg_salary,78430.05
+UK,avg_salary,97094.97
+US,median_salary,53692.44
+UK,median_salary,84500.00
+US,mode,49839.24
+UK,mode,84500.00
